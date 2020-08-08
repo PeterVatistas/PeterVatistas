@@ -1,4 +1,2 @@
 :octocat:
 Functional Programmer
-
-:javascript:
