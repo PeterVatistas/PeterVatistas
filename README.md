@@ -1,5 +1,3 @@
-
-### Peter Vatistas
 #### Functional Programmer :octocat:
 
 <br />
