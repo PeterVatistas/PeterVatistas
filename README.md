@@ -1,7 +1,6 @@
 
 ### Peter Vatistas
 #### Functional Programmer :octocat:
-- I'm currently working several interesting and exciting projects
 
 <br />
 
