@@ -1,6 +1,6 @@
 #### Functional Programmer :octocat:
 
-<br />
+<br /><br />
 
 #### Libraries:
 
@@ -9,7 +9,7 @@
 <img align="left" alt="Playwright" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png" />
 
 
-<br />
+<br /><br />
 
 #### Languages and Tools:
 
