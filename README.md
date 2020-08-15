@@ -2,6 +2,15 @@
 
 <br />
 
+#### Libraries:
+
+<img align="left" alt="Puppeteer" width="26px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" />
+
+<img align="left" alt="Playwright" width="26px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png" />
+
+
+<br />
+
 #### Languages and Tools:
 
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
