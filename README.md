@@ -4,7 +4,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Elixir" width="26px" src="https://raw.githubusercontent.com/elixir-lang/elixir-lang.github.com/master/images/logo/logo.png" />
+<img align="left" alt="Elixir" width="26px" src="https://plugins.jetbrains.com/files/7522/93761/icon/pluginIcon.png" />
 
 <img align="left" alt="Erlang" width="26px" src="https://avatars1.githubusercontent.com/u/153393?s=200&v=4" />
 
